@@ -1,0 +1,5 @@
+package com.javacode.example.junitmavenexample;
+
+public class Calculator implements ICalculator{
+
+}
